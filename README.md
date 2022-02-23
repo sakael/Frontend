@@ -1,5 +1,5 @@
 
-# Project Skrepr Test
+# Frontend Test
 
 A Web Component Gallery
 
